@@ -1,0 +1,3 @@
+Who do you think is the werewolf? Remember to base your decision on the game's progress, your role, and the discussions that have happened. 
+
+Respond with ONLY the player ID of who you want to vote for (e.g., AI_P1, AI_P2, AI_P3, AI_P4, or AI_P5). Do not include any explanation or additional text - just the player ID.

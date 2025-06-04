@@ -1,0 +1,3 @@
+Based on the rules of the game and your assigned role, start a conversation or continue the conversation. The response should be non-trivial and substantial. Please keep it less than 5 sentences.
+
+Do not include your player ID at the beginning of your response - just provide your statement directly. Address other players by their player IDs when necessary.
